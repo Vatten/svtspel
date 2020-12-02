@@ -1,31 +1,36 @@
-<!-- This is a static file -->
-<!-- served from your routes in server.js -->
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="A cool thing made with Glitch">
-
-    <title>Welcome to Glitch!</title>
-
-    <link id="favicon" rel="icon" href="https://glitch.com/edit/favicon-app.ico" type="image/x-icon">
-    <!-- import the webpage's stylesheet -->
-    <link rel="stylesheet" href="/style.css">
-
-    <!-- import the webpage's client-side javascript file -->
-    <script src="/script.js" defer></script>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="description" content="Smyg in till Barnkanalens Hemliga klubben och spela med Tant Lyckra!
+  Hemma hos henne finns det en massa saker att göra, baka, leta och jaga kakor. Men glöm inte bort lösenordet!">
+  <link rel="stylesheet" href="style.css" type="text/css" media="screen" title="no title" charset="utf-8">
+  
+  <title>Spela Hemliga klubben på svt.se/barnkanalen</title>
+  <script src="jquery.js" type="text/javascript"></script>
+  
+  <script type="text/javascript">
+      var width = 1060;
+      var height = 740;
+  </script>
+  
   </head>
+  
   <body>
-    <object type="application/x-shockwave-flash" id="SpelId" data="main.swf" width="1060" height="740">
-            <param name="quality" value="high">
-            <param name="scale" value="noscale">
-            <param name="wmode" value="window">
-            <param name="allowscriptaccess" value="always">
-            <param name="allowfullscreen" value="true">
-            <param name="bgcolor" value="#000000">
-            <param name="flashvars" value="siteXML=xml/site.xml">
-        </object>
-  </body>
-</html>
+  <div id="content">
+      <div id="flashbackground" class="flashWidth" style="width: 1060px;">
+          <object type="application/x-shockwave-flash" id="SpelId" data="main.swf" width="1060" height="740">
+              <param name="quality" value="high">
+              <param name="scale" value="noscale">
+              <param name="wmode" value="window">
+              <param name="allowscriptaccess" value="always">
+              <param name="allowfullscreen" value="true">
+              <param name="bgcolor" value="#000000">
+              <param name="flashvars" value="siteXML=xml/site.xml">
+          </object>
+      </div> <!-- flashbackground end -->
+  </div> <!-- content end -->
+  
+  <script src="script.js" type="text/javascript"></script>
+  
+  
+  
+  </body></html>

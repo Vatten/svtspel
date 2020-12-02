@@ -1,135 +1,135 @@
 <site title="Hemliga klubben" menu="false" history="false" indexFirst="true">
-<page id="index" src="https://media.svt.se/spel/hemliga-klubben/index.swf">
-<asset id="gameOff1" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/game_off_1.f4v" preload="false" progress="true"/>
-<asset id="gameOff2" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/game_off_2.f4v" preload="false" progress="true"/>
-<!-- <asset id="gameOff3" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/game_off_3.f4v" preload="false" progress="true"/> -->
-<asset id="gameOff4" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/game_off_4.f4v" preload="false" progress="true"/>
-<asset id="gameOff5" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/game_off_5.f4v" preload="false" progress="true"/>
-<!-- <asset id="mainSound" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/sound/mainLoop.mp3" preload="true" progress="true"/> -->
-<page id="nav" src="https://media.svt.se/spel/hemliga-klubben/nav.swf" depth="top">
-<asset id="mainSound" src="https://media.svt.se/spel/hemliga-klubben/assets/sound/mainLoop.mp3" preload="false" progress="true"/>
-<asset id="mainSoundEnd" src="assets/sound/mainLoopEnd.mp3" preload="true" progress="true"/>
-<asset id="snurr1" src="assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
-<asset id="snurr2" src="assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
-<!--    <asset id="uppdragSound" src="assets/sound/uppdragLoop.mp3" preload="false" progress="false"/> -->
-<asset id="uppdragSoundEnd" src="assets/sound/uppdragEnd.mp3" preload="true" progress="true"/>
-<page id="intro" title="Intro" src="intro.swf">
-<asset id="siteLogo" src="assets/sitelogo.swf" preload="true" progress="true" depth="top"/>
-<asset id="barn" src="assets/sound/ramverk/logosound.mp3" preload="false" progress="true"/>
-<asset id="lampa" src="assets/sound/ramverk/lamp_on.mp3" preload="true" progress="true"/>
-<asset id="snurr1" src="assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
-<asset id="snurr2" src="assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
-<asset id="snurr3" src="assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
-<asset id="mouseover" src="assets/sound/ramverk/intro_mouseover.mp3" preload="true" progress="true"/>
-<asset id="introStart" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/intro.flv" preload="false" progress="true"/>
-<asset id="introCorrect" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/intro_correct.f4v" preload="false" progress="true"/>
-<asset id="introWrong1" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/intro_false_1.f4v" preload="false" progress="true"/>
-<asset id="introWrong2" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/intro_false_2.f4v" preload="false" progress="true"/>
+<page id="index" src="TantLyckra/index.swf">
+<asset id="gameOff1" src="TantLyckra/video/game_off_1.f4v" preload="false" progress="true"/>
+<asset id="gameOff2" src="TantLyckra/video/game_off_2.f4v" preload="false" progress="true"/>
+<!-- <asset id="gameOff3" src="TantLyckra/video/game_off_3.f4v" preload="false" progress="true"/> -->
+<asset id="gameOff4" src="TantLyckra/video/game_off_4.f4v" preload="false" progress="true"/>
+<asset id="gameOff5" src="TantLyckra/video/game_off_5.f4v" preload="false" progress="true"/>
+<!-- <asset id="mainSound" src="TantLyckra/video/sound/mainLoop.mp3" preload="true" progress="true"/> -->
+<page id="nav" src="TantLyckra/nav.swf" depth="top">
+<asset id="mainSound" src="TantLyckra/assets/sound/mainLoop.mp3" preload="false" progress="true"/>
+<asset id="mainSoundEnd" src="TantLyckra/assets/sound/mainLoopEnd.mp3" preload="true" progress="true"/>
+<asset id="snurr1" src="TantLyckra/assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
+<asset id="snurr2" src="TantLyckra/assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
+<!--    <asset id="uppdragSound" src="TantLyckra/assets/sound/uppdragLoop.mp3" preload="false" progress="false"/> -->
+<asset id="uppdragSoundEnd" src="TantLyckra/assets/sound/uppdragEnd.mp3" preload="true" progress="true"/>
+<page id="intro" title="Intro" src="TantLyckra/intro.swf">
+<asset id="siteLogo" src="TantLyckra/assets/sitelogo.swf" preload="true" progress="true" depth="top"/>
+<asset id="barn" src="TantLyckra/assets/sound/ramverk/logosound.mp3" preload="false" progress="true"/>
+<asset id="lampa" src="TantLyckra/assets/sound/ramverk/lamp_on.mp3" preload="true" progress="true"/>
+<asset id="snurr1" src="TantLyckra/assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
+<asset id="snurr2" src="TantLyckra/assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
+<asset id="snurr3" src="TantLyckra/assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
+<asset id="mouseover" src="TantLyckra/assets/sound/ramverk/intro_mouseover.mp3" preload="true" progress="true"/>
+<asset id="introStart" src="TantLyckra/video/intro.flv" preload="false" progress="true"/>
+<asset id="introCorrect" src="TantLyckra/video/intro_correct.f4v" preload="false" progress="true"/>
+<asset id="introWrong1" src="TantLyckra/video/intro_false_1.f4v" preload="false" progress="true"/>
+<asset id="introWrong2" src="TantLyckra/video/intro_false_2.f4v" preload="false" progress="true"/>
 </page>
-<page id="introUt" title="Intro ut" src="endgame.swf"/>
-<page id="SpelContainer1" title="Bakakakor" src="JustAContainer.swf">
-<page id="startaspel" title="Starta spel" src="startgame.swf">
-<asset id="gameOn" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/baka_on.flv" preload="false" progress="true"/>
+<page id="introUt" title="Intro ut" src="TantLyckra/endgame.swf"/>
+<page id="SpelContainer1" title="Bakakakor" src="TantLyckra/JustAContainer.swf">
+<page id="startaspel" title="Starta spel" src="TantLyckra/startgame.swf">
+<asset id="gameOn" src="TantLyckra/video/baka_on.flv" preload="false" progress="true"/>
 </page>
-<page id="anslag" title="Anslag Baka" src="anslag.swf">
-<asset id="anslag" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/baka_anslag.f4v" preload="false" progress="true"/>
+<page id="anslag" title="Anslag Baka" src="TantLyckra/anslag.swf">
+<asset id="anslag" src="TantLyckra/video/baka_anslag.f4v" preload="false" progress="true"/>
 </page>
-<page id="spel" title="Spel Baka" src="game.swf">
-<asset id="game" src="assets/baka/baka.swf" preload="true" progress="true"/>
-<asset id="mainSound" src="assets/sound/uppdragLoop.mp3" preload="false" progress="false"/>
+<page id="spel" title="Spel Baka" src="TantLyckra/game.swf">
+<asset id="game" src="TantLyckra/assets/baka/baka.swf" preload="true" progress="true"/>
+<asset id="mainSound" src="TantLyckra/assets/sound/uppdragLoop.mp3" preload="false" progress="false"/>
 </page>
-<page id="slutaspel" title="Sluta spel" src="endgame.swf"/>
+<page id="slutaspel" title="Sluta spel" src="TantLyckra/endgame.swf"/>
 </page>
-<page id="SpelContainer2" title="Oljudsmaskin" src="JustAContainer.swf">
-<page id="startaspel" title="Starta spel" src="startgame.swf">
-<asset id="gameOn" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/oljud_on.flv" preload="false" progress="true"/>
+<page id="SpelContainer2" title="Oljudsmaskin" src="TantLyckra/JustAContainer.swf">
+<page id="startaspel" title="Starta spel" src="TantLyckra/startgame.swf">
+<asset id="gameOn" src="TantLyckra/video/oljud_on.flv" preload="false" progress="true"/>
 </page>
-<page id="anslag" title="Anslag Oljud" src="anslag.swf">
-<asset id="anslag" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/oljud_anslag.f4v" preload="false" progress="true"/>
+<page id="anslag" title="Anslag Oljud" src="TantLyckra/anslag.swf">
+<asset id="anslag" src="TantLyckra/video/oljud_anslag.f4v" preload="false" progress="true"/>
 </page>
-<page id="spel" title="Spel Oljud" src="game.swf">
-<asset id="game" src="assets/oljud/SoundMachine_FRAMEWORK.swf" preload="true" progress="true"/>
+<page id="spel" title="Spel Oljud" src="TantLyckra/game.swf">
+<asset id="game" src="TantLyckra/assets/oljud/SoundMachine_FRAMEWORK.swf" preload="true" progress="true"/>
 </page>
-<page id="slutaspel" title="Sluta spel" src="endgame.swf"/>
+<page id="slutaspel" title="Sluta spel" src="TantLyckra/endgame.swf"/>
 </page>
-<page id="SpelContainer3" title="Studsmatta" src="JustAContainer.swf">
-<page id="startaspel" title="Starta spel" src="startgame.swf">
-<asset id="gameOn" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/studsmatta_on.flv" preload="false" progress="true"/>
+<page id="SpelContainer3" title="Studsmatta" src="TantLyckra/JustAContainer.swf">
+<page id="startaspel" title="Starta spel" src="TantLyckra/startgame.swf">
+<asset id="gameOn" src="TantLyckra/video/studsmatta_on.flv" preload="false" progress="true"/>
 </page>
-<page id="anslag" title="Anslag Studsmatta" src="anslag.swf">
-<asset id="anslag" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/studsmatta_anslag.f4v" preload="false" progress="true"/>
+<page id="anslag" title="Anslag Studsmatta" src="TantLyckra/anslag.swf">
+<asset id="anslag" src="TantLyckra/video/studsmatta_anslag.f4v" preload="false" progress="true"/>
 </page>
-<page id="spel" title="Spel Studsmatta" src="game.swf">
-<asset id="game" src="assets/studsmatta/studsmatta.swf" preload="true" progress="true"/>
-<asset id="mainSound" src="assets/sound/uppdragLoop.mp3" preload="false" progress="false"/>
+<page id="spel" title="Spel Studsmatta" src="TantLyckra/game.swf">
+<asset id="game" src="TantLyckra/assets/studsmatta/studsmatta.swf" preload="true" progress="true"/>
+<asset id="mainSound" src="TantLyckra/assets/sound/uppdragLoop.mp3" preload="false" progress="false"/>
 </page>
-<page id="slutaspel" title="Sluta spel" src="endgame.swf"/>
+<page id="slutaspel" title="Sluta spel" src="TantLyckra/endgame.swf"/>
 </page>
-<page id="SpelContainer4" title="Letasaker" src="JustAContainer.swf">
-<page id="startaspel" title="Starta spel" src="startgame.swf">
-<asset id="gameOn" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/tappat_on.flv" preload="false" progress="true"/>
+<page id="SpelContainer4" title="Letasaker" src="TantLyckra/JustAContainer.swf">
+<page id="startaspel" title="Starta spel" src="TantLyckra/startgame.swf">
+<asset id="gameOn" src="TantLyckra/video/tappat_on.flv" preload="false" progress="true"/>
 </page>
-<page id="anslag" title="Anslag Tappat" src="anslag.swf">
-<asset id="anslag" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/gomma_anslag.f4v" preload="false" progress="true"/>
+<page id="anslag" title="Anslag Tappat" src="TantLyckra/anslag.swf">
+<asset id="anslag" src="TantLyckra/video/gomma_anslag.f4v" preload="false" progress="true"/>
 </page>
-<page id="spel" title="Spel Tappat" src="game.swf">
-<asset id="game" src="assets/leta/LetaSak_FRAMEWORK.swf" preload="true" progress="true"/>
-<asset id="mainSound" src="assets/sound/tappatmusic.mp3" preload="false" progress="false"/>
+<page id="spel" title="Spel Tappat" src="TantLyckra/game.swf">
+<asset id="game" src="TantLyckra/assets/leta/LetaSak_FRAMEWORK.swf" preload="true" progress="true"/>
+<asset id="mainSound" src="TantLyckra/assets/sound/tappatmusic.mp3" preload="false" progress="false"/>
 </page>
-<page id="slutaspel" title="Sluta spel" src="endgame.swf"/>
+<page id="slutaspel" title="Sluta spel" src="TantLyckra/endgame.swf"/>
 </page>
-<page id="SpelContainer5" title="Hemligtkakuppdrag" src="JustAContainer.swf">
-<page id="startaspel" title="Starta spel" src="startgame.swf">
-<asset id="gameOn" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/tvspel_on.flv" preload="false" progress="true"/>
+<page id="SpelContainer5" title="Hemligtkakuppdrag" src="TantLyckra/JustAContainer.swf">
+<page id="startaspel" title="Starta spel" src="TantLyckra/startgame.swf">
+<asset id="gameOn" src="TantLyckra/video/tvspel_on.flv" preload="false" progress="true"/>
 </page>
-<page id="anslag" title="Anslag Tvspel" src="anslag.swf">
-<asset id="anslag" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/kakuppdrag_anslag.f4v" preload="false" progress="true"/>
+<page id="anslag" title="Anslag Tvspel" src="TantLyckra/anslag.swf">
+<asset id="anslag" src="TantLyckra/video/kakuppdrag_anslag.f4v" preload="false" progress="true"/>
 </page>
-<page id="spel" title="Spel Tvspel" src="game.swf">
-<asset id="game" src="assets/tilegame/tilegame.swf" preload="true" progress="true"/>
-<asset id="mainSound" src="assets/sound/tvspelmusic.mp3" preload="false" progress="false"/>
+<page id="spel" title="Spel Tvspel" src="TantLyckra/game.swf">
+<asset id="game" src="TantLyckra/assets/tilegame/tileTantLyckra/game.swf" preload="true" progress="true"/>
+<asset id="mainSound" src="TantLyckra/assets/sound/tvspelmusic.mp3" preload="false" progress="false"/>
 </page>
-<page id="slutaspel" title="Sluta spel" src="endgame.swf"/>
+<page id="slutaspel" title="Sluta spel" src="TantLyckra/endgame.swf"/>
 </page>
-<page id="SpelContainer6" title="Uppfinning" src="JustAContainer.swf">
-<page id="startaspel" title="Starta spel" src="startgame.swf">
-<asset id="gameOn" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/uppfinning_on.flv" preload="false" progress="true"/>
+<page id="SpelContainer6" title="Uppfinning" src="TantLyckra/JustAContainer.swf">
+<page id="startaspel" title="Starta spel" src="TantLyckra/startgame.swf">
+<asset id="gameOn" src="TantLyckra/video/uppfinning_on.flv" preload="false" progress="true"/>
 </page>
-<page id="anslag" title="Anslag Uppfinning" src="anslag.swf">
-<asset id="anslag" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/uppfinning_anslag.f4v" preload="false" progress="true"/>
+<page id="anslag" title="Anslag Uppfinning" src="TantLyckra/anslag.swf">
+<asset id="anslag" src="TantLyckra/video/uppfinning_anslag.f4v" preload="false" progress="true"/>
 </page>
-<page id="spel" title="Spel Uppfinning" src="game.swf">
-<asset id="game" src="assets/uppfinning/uppfinning.swf" preload="true" progress="true"/>
+<page id="spel" title="Spel Uppfinning" src="TantLyckra/game.swf">
+<asset id="game" src="TantLyckra/assets/uppfinning/uppfinning.swf" preload="true" progress="true"/>
 </page>
-<page id="slutaspel" title="Sluta spel" src="endgame.swf"/>
+<page id="slutaspel" title="Sluta spel" src="TantLyckra/endgame.swf"/>
 </page>
-<page id="SpelContainer7" title="Vikfigur" src="JustAContainer.swf">
-<page id="startaspel" title="Starta spel" src="startgame.swf">
-<asset id="gameOn" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/vikfigur_on.flv" preload="false" progress="true"/>
+<page id="SpelContainer7" title="Vikfigur" src="TantLyckra/JustAContainer.swf">
+<page id="startaspel" title="Starta spel" src="TantLyckra/startgame.swf">
+<asset id="gameOn" src="TantLyckra/video/vikfigur_on.flv" preload="false" progress="true"/>
 </page>
-<page id="anslag" title="Anslag Vikfigur" src="anslag.swf">
-<asset id="anslag" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/vikfigur_anslag.f4v" preload="false" progress="true"/>
+<page id="anslag" title="Anslag Vikfigur" src="TantLyckra/anslag.swf">
+<asset id="anslag" src="TantLyckra/video/vikfigur_anslag.f4v" preload="false" progress="true"/>
 </page>
-<page id="spel" title="Spel Vikfigur" src="game.swf">
-<asset id="game" src="assets/vikfigur/vikfigur.swf" preload="true" progress="true"/>
-<asset id="mainSound" src="assets/sound/uppdragLoop.mp3" preload="false" progress="false"/>
+<page id="spel" title="Spel Vikfigur" src="TantLyckra/game.swf">
+<asset id="game" src="TantLyckra/assets/vikfigur/vikfigur.swf" preload="true" progress="true"/>
+<asset id="mainSound" src="TantLyckra/assets/sound/uppdragLoop.mp3" preload="false" progress="false"/>
 </page>
-<page id="slutaspel" title="Sluta spel" src="endgame.swf"/>
+<page id="slutaspel" title="Sluta spel" src="TantLyckra/endgame.swf"/>
 </page>
-<page id="SpelContainer8" title="Pepparkakshus" src="JustAContainer.swf">
-<page id="startaspel" title="Starta spel" src="startgame.swf">
-<asset id="gameOn" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/pepparkakshus_on.flv" preload="false" progress="true"/>
+<page id="SpelContainer8" title="Pepparkakshus" src="TantLyckra/JustAContainer.swf">
+<page id="startaspel" title="Starta spel" src="TantLyckra/startgame.swf">
+<asset id="gameOn" src="TantLyckra/video/pepparkakshus_on.flv" preload="false" progress="true"/>
 </page>
-<page id="anslag" title="Anslag Pepparkakshus" src="anslag.swf">
-<asset id="anslag" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/pepparkakshus_anslag.f4v" preload="false" progress="true"/>
+<page id="anslag" title="Anslag Pepparkakshus" src="TantLyckra/anslag.swf">
+<asset id="anslag" src="TantLyckra/video/pepparkakshus_anslag.f4v" preload="false" progress="true"/>
 </page>
-<page id="spel" title="Spel Pepparkakshus" src="game.swf">
-<asset id="game" src="assets/pepparkakshus/pepparkakshus.swf" preload="true" progress="true"/>
-<asset id="mainSound" src="assets/sound/uppdragLoop.mp3" preload="false" progress="false"/>
+<page id="spel" title="Spel Pepparkakshus" src="TantLyckra/game.swf">
+<asset id="game" src="TantLyckra/assets/pepparkakshus/pepparkakshus.swf" preload="true" progress="true"/>
+<asset id="mainSound" src="TantLyckra/assets/sound/uppdragLoop.mp3" preload="false" progress="false"/>
 </page>
-<page id="slutaspel" title="Sluta spel" src="endgame.swf"/>
+<page id="slutaspel" title="Sluta spel" src="TantLyckra/endgame.swf"/>
 </page>
-<page id="middleseq" title="Mellansekvens" src="middleseq.swf" assetPath="assets/dumklick/">
+<page id="middleseq" title="Mellansekvens" src="TantLyckra/middleseq.swf" assetPath="TantLyckra/assets/dumklick/">
 <asset id="balloon" src="balloon.swf" preload="false" progress="false"/>
 <asset id="spider" src="spider.swf" preload="false" progress="false"/>
 <asset id="rat" src="rat.swf" preload="false" progress="false"/>
@@ -137,16 +137,16 @@
 <asset id="butterfly" src="butterfly.swf" preload="false" progress="false"/>
 <asset id="song" src="song.swf" preload="false" progress="false"/>
 <asset id="sub" src="sub.swf" preload="false" progress="false"/>
-<asset id="middle1" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/mellan_1.f4v" preload="false" progress="true"/>
-<asset id="middle2" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/mellan_2.f4v" preload="false" progress="true"/>
-<asset id="middle3" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/mellan_3.f4v" preload="false" progress="true"/>
-<asset id="middle4" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/mellan_4.f4v" preload="false" progress="true"/>
-<asset id="middle5" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/mellan_5.f4v" preload="false" progress="true"/>
-<asset id="middle6" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/mellan_6.f4v" preload="false" progress="true"/>
-<asset id="middle7" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/mellan_7.f4v" preload="false" progress="true"/>
-<asset id="middle8" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/mellan_8.f4v" preload="false" progress="true"/>
-<asset id="middle9" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/mellan_9.f4v" preload="false" progress="true"/>
-<asset id="middle10" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/mellan_10.f4v" preload="false" progress="true"/>
+<asset id="middle1" src="mellan_1.f4v" preload="false" progress="true"/>
+<asset id="middle2" src="mellan_2.f4v" preload="false" progress="true"/>
+<asset id="middle3" src="mellan_3.f4v" preload="false" progress="true"/>
+<asset id="middle4" src="mellan_4.f4v" preload="false" progress="true"/>
+<asset id="middle5" src="mellan_5.f4v" preload="false" progress="true"/>
+<asset id="middle6" src="mellan_6.f4v" preload="false" progress="true"/>
+<asset id="middle7" src="mellan_7.f4v" preload="false" progress="true"/>
+<asset id="middle8" src="mellan_8.f4v" preload="false" progress="true"/>
+<asset id="middle9" src="mellan_9.f4v" preload="false" progress="true"/>
+<asset id="middle10" src="mellan_10.f4v" preload="false" progress="true"/>
 </page>
 </page>
 </page>
