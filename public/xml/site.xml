@@ -1,13 +1,13 @@
 <site title="Hemliga klubben" menu="false" history="false" indexFirst="true">
-<page id="index" src="index.swf">
+<page id="index" src="https://media.svt.se/spel/hemliga-klubben/index.swf">
 <asset id="gameOff1" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/game_off_1.f4v" preload="false" progress="true"/>
 <asset id="gameOff2" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/game_off_2.f4v" preload="false" progress="true"/>
 <!-- <asset id="gameOff3" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/game_off_3.f4v" preload="false" progress="true"/> -->
 <asset id="gameOff4" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/game_off_4.f4v" preload="false" progress="true"/>
 <asset id="gameOff5" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/game_off_5.f4v" preload="false" progress="true"/>
 <!-- <asset id="mainSound" src="https://media.svt.se/download/flash/fiktion/video/hemligaklubben/sound/mainLoop.mp3" preload="true" progress="true"/> -->
-<page id="nav" src="nav.swf" depth="top">
-<asset id="mainSound" src="assets/sound/mainLoop.mp3" preload="false" progress="true"/>
+<page id="nav" src="https://media.svt.se/spel/hemliga-klubben/nav.swf" depth="top">
+<asset id="mainSound" src="https://media.svt.se/spel/hemliga-klubben/assets/sound/mainLoop.mp3" preload="false" progress="true"/>
 <asset id="mainSoundEnd" src="assets/sound/mainLoopEnd.mp3" preload="true" progress="true"/>
 <asset id="snurr1" src="assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
 <asset id="snurr2" src="assets/sound/ramverk/intro_knappar_in.mp3" preload="true" progress="true"/>
