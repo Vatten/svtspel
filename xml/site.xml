@@ -86,7 +86,7 @@
 <asset id="anslag" src="TantLyckra/video/kakuppdrag_anslag.f4v" preload="false" progress="true"/>
 </page>
 <page id="spel" title="Spel Tvspel" src="TantLyckra/game.swf">
-<asset id="game" src="TantLyckra/assets/tilegame/tileTantLyckra/game.swf" preload="true" progress="true"/>
+<asset id="game" src="TantLyckra/assets/tilegame/tilegame.swf" preload="true" progress="true"/>
 <asset id="mainSound" src="TantLyckra/assets/sound/tvspelmusic.mp3" preload="false" progress="false"/>
 </page>
 <page id="slutaspel" title="Sluta spel" src="TantLyckra/endgame.swf"/>
